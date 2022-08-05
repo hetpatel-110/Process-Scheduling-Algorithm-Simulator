@@ -23,3 +23,6 @@ Steps to Proceed with this Project (Though it is pretty Straight forward):
 6. Once you are done adding the processes, click on "Run Algorithm".
 
 You will be able to see the Gantt Chart, Ready Queue(For RR and SRTF only) and a Process Desription Table and Average Calculations.
+
+![image](https://user-images.githubusercontent.com/76638140/183147077-a68178f4-7367-4e35-a207-be1d275edcd7.png)
+![image](https://user-images.githubusercontent.com/76638140/183147121-d0818fbe-374f-4784-91f2-37f368151007.png)
